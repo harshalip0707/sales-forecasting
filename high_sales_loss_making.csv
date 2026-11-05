@@ -1,0 +1,198 @@
+category,subcategory,product,sales,profit,quantity,avg_discount,orders,profit_margin,is_loss_making
+Technology,Machines,Cubify CubeX 3D Printer Double Head Print,11099.963,-8879.970400000002,9,0.5333333333333333,3,-0.8000000000000002,True
+Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,16829.900999999998,-4589.973000000004,18,0.4,4,-0.272727272727273,True
+Technology,Machines,Cubify CubeX 3D Printer Triple Head Print,7999.98,-3839.9903999999988,4,0.5,1,-0.47999999999999987,True
+Furniture,Tables,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,9917.64,-2876.1156,27,0.28,5,-0.29000000000000004,True
+Furniture,Tables,Bush Advantage Collection Racetrack Conference Table,9544.724999999999,-1934.3975999999998,33,0.35000000000000003,7,-0.20266666666666666,True
+Office Supplies,Binders,GBC DocuBind P400 Electric Binding System,17965.068,-1878.1662000000033,27,0.45,6,-0.10454545454545473,True
+Technology,Machines,Cisco TelePresence System EX90 Videoconferencing Unit,22638.48,-1811.0784000000021,6,0.5,1,-0.0800000000000001,True
+Office Supplies,Supplies,Martin Yale Chadless Opener Electric Letter Opener,16656.199999999997,-1299.1835999999998,22,0.10000000000000002,6,-0.078,True
+Furniture,Tables,Balt Solid Wood Round Tables,6518.754,-1201.0581,19,0.2,4,-0.18424657534246575,True
+Furniture,Tables,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,1706.25,-1148.4375,15,0.48333333333333334,3,-0.6730769230769231,True
+Furniture,Tables,"Riverside Furniture Oval Coffee Table, Oval End Table, End Table with Drawer",4446.175000000001,-1147.4000000000003,25,0.3,5,-0.25806451612903225,True
+Technology,Machines,Epson TM-T88V Direct Thermal Printer - Monochrome - Desktop,1212.7050000000002,-1057.23,10,0.55,2,-0.8717948717948717,True
+Furniture,Chairs,Hon 2090 “Pillow Soft” Series Mid Back Swivel/Tilt Chairs,5282.424000000001,-989.0496000000009,24,0.21666666666666667,6,-0.18723404255319162,True
+Furniture,Bookcases,O'Sullivan 4-Shelf Bookcase in Odessa Pine,2740.197,-975.0988000000001,37,0.4214285714285714,7,-0.3558498896247241,True
+Furniture,Tables,Bretford “Just In Time” Height-Adjustable Multi-Task Work Tables,5634.9,-964.1940000000006,17,0.225,4,-0.17111111111111124,True
+Technology,Machines,Zebra GK420t Direct Thermal/Thermal Transfer Printer,703.71,-938.28,6,0.7,1,-1.3333333333333333,True
+Office Supplies,Appliances,3.6 Cubic Foot Counter Height Office Refrigerator,2946.2,-872.0751999999999,18,0.52,5,-0.296,True
+Furniture,Tables,"Bevis Oval Conference Table, Walnut",6942.068,-856.0144000000012,36,0.275,8,-0.1233082706766919,True
+Office Supplies,Storage,Tennsco Single-Tier Lockers,9158.296,-825.7480000000002,28,0.07500000000000001,8,-0.09016393442622953,True
+Furniture,Tables,BPI Conference Tables,2241.8675000000003,-795.9725000000003,26,0.37,5,-0.3550488599348535,True
+Technology,Machines,StarTech.com 10/100 VDSL2 Ethernet Extender Kit,2330.6499999999996,-785.762,13,0.425,4,-0.3371428571428572,True
+Furniture,Bookcases,O'Sullivan Plantations 2-Door Library in Landvery Oak,2946.3668,-767.7435999999998,22,0.332,5,-0.26057298772169163,True
+Furniture,Bookcases,O'Sullivan Living Dimensions 5-Shelf Bookcases,3420.7703999999994,-755.7516000000003,21,0.24,6,-0.22093023255813965,True
+Furniture,Tables,Hon 94000 Series Round Tables,7404.5,-681.2139999999997,30,0.16,5,-0.09199999999999996,True
+Furniture,Bookcases,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",15610.9656,-669.5448000000001,24,0.23399999999999999,5,-0.042889390519187366,True
+Office Supplies,Storage,"SAFCO Commercial Wire Shelving, Black",4199.456,-635.444,35,0.14,10,-0.1513157894736842,True
+Furniture,Bookcases,Bestar Classic Bookcase,1897.8102,-612.9387000000002,31,0.315,8,-0.32297154899894637,True
+Furniture,Tables,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",4297.644,-611.5878000000002,11,0.3333333333333333,6,-0.14230769230769236,True
+Furniture,Tables,Hon Racetrack Conference Tables,3963.901,-598.5228000000003,22,0.2833333333333334,6,-0.1509933774834438,True
+Furniture,Tables,Bevis Rectangular Conference Tables,1007.262,-586.8395999999998,13,0.475,4,-0.5826086956521738,True
+Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,7242.767999999999,-532.7612999999999,29,0.2625,8,-0.0735576923076923,True
+Furniture,Furnishings,Tenex Antistatic Computer Chair Mats,3317.0119999999997,-530.0380000000004,25,0.2333333333333333,6,-0.15979381443298982,True
+Furniture,Furnishings,"Tenex Chairmat w/ Average Lip, 45"" x 53""",2058.496,-529.7600000000002,19,0.3,4,-0.2573529411764707,True
+Furniture,Tables,"Bevis Round Conference Table Top, X-Base",2671.421,-519.9409999999998,20,0.26666666666666666,6,-0.19463087248322142,True
+Technology,Machines,Lexmark MarkNet N8150 Wireless Print Server,723.51,-506.4569999999997,6,0.7,2,-0.6999999999999996,True
+Furniture,Chairs,"Global Wood Trimmed Manager's Task Chair, Khaki",4166.884,-503.1194000000002,59,0.2285714285714286,14,-0.12074235807860267,True
+Furniture,Chairs,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",3680.5379999999996,-491.1750000000003,35,0.18888888888888888,9,-0.13345195729537376,True
+Furniture,Tables,KI Conference Tables,2140.878,-479.2163999999998,44,0.325,8,-0.22384105960264888,True
+Furniture,Chairs,"Global High-Back Leather Tilter, Burgundy",5436.157999999999,-474.74140000000034,54,0.18571428571428572,14,-0.08733031674208153,True
+Office Supplies,Storage,SAFCO Boltless Steel Shelving,4704.696,-470.46960000000024,46,0.1,10,-0.10000000000000005,True
+Technology,Machines,"3D Systems Cube Printer, 2nd Generation, White",2339.982,-467.99639999999994,3,0.35,2,-0.19999999999999998,True
+Office Supplies,Binders,GBC ProClick 150 Presentation Binding System,3222.996,-461.33079999999984,22,0.5,5,-0.14313725490196072,True
+Furniture,Chairs,Global Enterprise Series Seating High-Back Swivel/Tilt Chairs,2032.3500000000001,-460.6660000000002,10,0.25,4,-0.22666666666666677,True
+Furniture,Tables,"Bevis Traditional Conference Table Top, Plinth Base",2033.496,-456.70320000000004,9,0.3333333333333333,3,-0.22459016393442624,True
+Furniture,Tables,Chromcraft Rectangular Conference Tables,4952.673,-450.2430000000007,30,0.32222222222222224,9,-0.09090909090909105,True
+Technology,Machines,Swingline SM12-08 MicroCut Jam Free Shredder,2359.9410000000003,-447.9888,13,0.5333333333333333,3,-0.18983050847457625,True
+Furniture,Tables,Bevis Boat-Shaped Conference Table,2542.467,-445.5870000000002,15,0.31666666666666665,6,-0.17525773195876296,True
+Furniture,Chairs,Novimex Swivel Fabric Task Chair,2913.9139999999998,-445.3910000000001,25,0.2,8,-0.15284974093264253,True
+Technology,Machines,Okidata MB491 Multifunction Printer,2844.3,-434.12999999999977,9,0.44999999999999996,2,-0.15263157894736834,True
+Office Supplies,Supplies,Premier Automatic Letter Opener,2836.3660000000004,-427.85859999999985,14,0.12000000000000002,5,-0.15084745762711857,True
+Furniture,Bookcases,"Sauder Forest Hills Library with Doors, Woodland Oak Finish",1014.174,-418.548,10,0.2833333333333333,3,-0.41269841269841273,True
+Furniture,Tables,Riverside Furniture Stanwyck Manor Table Series,917.9200000000001,-415.93250000000006,5,0.3666666666666667,3,-0.45312500000000006,True
+Office Supplies,Binders,GBC VeloBinder Electric Binding Machine,496.01800000000003,-411.3319999999999,15,0.725,4,-0.8292682926829266,True
+Furniture,Tables,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",5098.1759999999995,-404.0064000000001,22,0.31666666666666665,6,-0.07924528301886795,True
+Furniture,Tables,Hon 2111 Invitation Series Corner Table,3140.55,-401.99040000000025,18,0.2,4,-0.12800000000000009,True
+Furniture,Tables,"Iceberg OfficeWorks 42"" Round Tables",3457.4419999999996,-392.5480000000003,30,0.19999999999999998,7,-0.11353711790393023,True
+Furniture,Tables,Balt Split Level Computer Training Table,1256.685,-386.621,20,0.275,8,-0.30765147988557195,True
+Technology,Phones,LG G2,1499.9699999999998,-374.99250000000006,5,0.4,1,-0.25000000000000006,True
+Furniture,Chairs,"Global Geo Office Task Chair, Gray",2793.808,-360.3650000000003,41,0.17777777777777778,9,-0.12898703132069214,True
+Furniture,Tables,Bretford Rectangular Conference Table Tops,13565.5715,-359.3540999999991,53,0.23214285714285715,14,-0.026490155611947428,True
+Furniture,Furnishings,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",1623.248,-343.0956000000001,26,0.26666666666666666,6,-0.21136363636363642,True
+Technology,Phones,Jawbone MINI JAMBOX Wireless Bluetooth Speaker,2027.304,-339.71040000000016,18,0.16,5,-0.16756756756756763,True
+Office Supplies,Storage,Fellowes Officeware Wire Shelving,4509.466,-332.37100000000015,55,0.07272727272727274,11,-0.07370517928286856,True
+Furniture,Tables,"Lesro Round Back Collection Coffee Table, End Table",2847.78,-328.58999999999986,20,0.2875,8,-0.11538461538461532,True
+Technology,Machines,"Brother MFC-9340CDW LED All-In-One Printer, Copier Scanner",341.99100000000004,-319.1916,3,0.7,1,-0.9333333333333332,True
+Furniture,Bookcases,"Atlantic Metals Mobile 2-Shelf Bookcases, Custom Colors",544.6148,-310.8642,5,0.605,4,-0.5707964601769911,True
+Office Supplies,Binders,Ibico Hi-Tech Manual Binding System,5398.323,-304.9900000000007,34,0.4272727272727273,11,-0.05649717514124306,True
+Furniture,Tables,Hon Rectangular Conference Tables,3481.515,-295.81500000000045,20,0.325,4,-0.08496732026143804,True
+Furniture,Bookcases,Sauder Barrister Bookcases,754.7336,-294.7672,16,0.4066666666666667,3,-0.3905579399141631,True
+Technology,Machines,Okidata C610n Printer,2011.8999999999999,-292.0500000000003,5,0.4,2,-0.1451612903225808,True
+Furniture,Bookcases,O'Sullivan Manor Hill 2-Door Library in Brianna Oak,1646.918,-285.9483999999999,12,0.2475,4,-0.17362637362637356,True
+Furniture,Furnishings,"Eldon ""L"" Workstation Diamond Chairmat",1002.9360000000001,-267.44960000000015,19,0.3,4,-0.2666666666666668,True
+Office Supplies,Supplies,High Speed Automatic Electric Letter Opener,17030.311999999998,-262.00480000000084,11,0.06666666666666667,3,-0.015384615384615436,True
+Furniture,Furnishings,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,1200.9360000000001,-256.56359999999995,18,0.15999999999999998,5,-0.21363636363636357,True
+Technology,Machines,Xerox WorkCentre 6505DN Laser Multifunction Printer,2519.9579999999996,-251.99579999999992,7,0.4,1,-0.09999999999999998,True
+Furniture,Chairs,Global Low Back Tilter Chair,1746.9540000000002,-246.39120000000023,21,0.1875,8,-0.1410404624277458,True
+Office Supplies,Binders,Catalog Binders with Expanding Posts,1089.9360000000001,-242.20800000000008,36,0.5125,8,-0.22222222222222227,True
+Furniture,Tables,Hon 5100 Series Wood Tables,5965.09,-238.60360000000043,26,0.21428571428571427,7,-0.04000000000000007,True
+Furniture,Chairs,Office Star Flex Back Scooter Chair with White Frame,1775.68,-228.6188,21,0.21428571428571427,7,-0.12875,True
+Furniture,Furnishings,"Tenex Carpeted, Granite-Look or Clear Contemporary Contour Shape Chair Mats",763.6679999999999,-222.7365000000001,15,0.24,5,-0.29166666666666685,True
+Office Supplies,Storage,Safco Industrial Wire Shelving System,2511.0480000000002,-218.35200000000003,30,0.1,8,-0.08695652173913045,True
+Furniture,Chairs,Global Deluxe Steno Chair,1770.5400000000002,-216.31380000000013,29,0.21000000000000002,10,-0.12217391304347833,True
+Furniture,Tables,Balt Solid Wood Rectangular Table,828.0965,-216.25450000000006,11,0.2625,4,-0.2611464968152867,True
+Furniture,Tables,KI Adjustable-Height Table,4820.951,-215.44019999999995,79,0.2225,20,-0.044688319794165085,True
+Technology,Phones,LG Exalt,1154.326,-212.14640000000009,12,0.3333333333333333,3,-0.18378378378378385,True
+Furniture,Bookcases,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",3626.0055999999995,-208.65039999999996,34,0.23374999999999999,8,-0.057542768273716946,True
+Furniture,Chairs,Global Deluxe High-Back Office Chair in Storm,1744.4720000000002,-206.96920000000011,16,0.18,5,-0.11864289022695698,True
+Furniture,Tables,Laminate Occasional Tables,2096.168,-206.53420000000023,18,0.2333333333333333,3,-0.09852941176470599,True
+Office Supplies,Binders,"Premier Elliptical Ring Binder, Black",526.6120000000001,-201.51280000000003,46,0.6444444444444444,9,-0.38265895953757223,True
+Furniture,Chairs,High-Back Leather Manager's Chair,4770.633000000001,-197.58480000000003,42,0.16666666666666666,9,-0.04141689373297003,True
+Furniture,Tables,"Bevis Round Bullnose 29"" High Table Top",4544.924999999999,-192.18540000000002,24,0.26,5,-0.042285714285714295,True
+Furniture,Bookcases,Hon 4-Shelf Metal Bookcases,1474.308,-191.86199999999985,22,0.25,4,-0.13013698630136977,True
+Furniture,Tables,Chromcraft Round Conference Tables,8209.059,-189.9761,61,0.2576923076923077,13,-0.023142250530785564,True
+Office Supplies,Storage,"Belkin 19"" Vented Equipment Shelf, Black",1400.2559999999999,-179.66519999999997,31,0.12000000000000002,10,-0.12830882352941175,True
+Furniture,Tables,"Hon 30"" x 60"" Table with Locking Drawer",1296.028,-177.3512,6,0.3333333333333333,3,-0.1368421052631579,True
+Furniture,Furnishings,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",2064.228,-173.1288,24,0.2,5,-0.08387096774193549,True
+Office Supplies,Storage,"Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h",2299.75,-172.94120000000018,28,0.12000000000000002,10,-0.07520000000000007,True
+Furniture,Bookcases,O'Sullivan Living Dimensions 3-Shelf Bookcases,2904.161,-170.83300000000023,17,0.2,4,-0.05882352941176478,True
+Office Supplies,Storage,Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,3178.13,-167.27,20,0.04,5,-0.052631578947368425,True
+Furniture,Tables,Bevis 44 x 96 Conference Tables,3253.2200000000003,-164.72000000000037,20,0.18,5,-0.050632911392405174,True
+Furniture,Chairs,"Office Star - Contemporary Task Swivel chair with 2-way adjustable arms, Plum",694.194,-158.48579999999998,7,0.25,2,-0.2283018867924528,True
+Office Supplies,Storage,Safco Industrial Shelving,1427.552,-154.56669999999988,16,0.1285714285714286,7,-0.10827395429378397,True
+Furniture,Tables,Hon 61000 Series Interactive Training Tables,653.121,-148.39620000000002,22,0.3111111111111111,9,-0.22721088435374154,True
+Furniture,Tables,"Bush Andora Conference Table, Maple/Graphite Gray Finish",1436.2319999999997,-143.62319999999997,12,0.3,4,-0.09999999999999999,True
+Furniture,Chairs,Novimex High-Tech Fabric Mesh Task Chair,922.7400000000001,-133.4424000000001,16,0.15000000000000002,4,-0.1446153846153847,True
+Furniture,Bookcases,O'Sullivan 2-Shelf Heavy-Duty Bookcases,723.842,-133.10919999999987,21,0.18333333333333335,6,-0.18389261744966426,True
+Furniture,Chairs,Novimex Fabric Task Chair,1890.3799999999999,-131.10700000000003,39,0.1888888888888889,9,-0.06935483870967744,True
+Furniture,Chairs,Office Star - Mesh Screen back chair with Vinyl seat,2200.464,-130.98000000000008,20,0.14285714285714285,7,-0.05952380952380956,True
+Furniture,Furnishings,Tenex Chairmats For Use with Hard Floors,467.712,-129.92000000000002,20,0.26666666666666666,6,-0.27777777777777785,True
+Technology,Phones,Samsung Galaxy Note 2,4507.902,-128.7971999999994,14,0.30000000000000004,2,-0.02857142857142844,True
+Office Supplies,Storage,Safco Industrial Wire Shelving,1363.058,-126.70680000000002,16,0.16,5,-0.09295774647887325,True
+Furniture,Bookcases,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",5184.081,-126.44100000000066,27,0.26666666666666666,6,-0.02439024390243915,True
+Furniture,Bookcases,"Sauder Mission Library with Doors, Fruitwood Finish",935.1972,-125.74080000000009,10,0.26333333333333336,3,-0.13445378151260515,True
+Furniture,Furnishings,"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",1115.64,-125.19959999999993,33,0.17777777777777776,9,-0.11222222222222215,True
+Office Supplies,Storage,Carina Media Storage Towers in Natural & Black,1073.248,-121.96000000000001,20,0.12000000000000002,5,-0.11363636363636363,True
+Technology,Phones,Cisco IP Phone 7961G-GE VoIP phone,2252.432,-119.11899999999974,15,0.35000000000000003,4,-0.05288461538461527,True
+Furniture,Bookcases,"Bush Birmingham Collection Bookcase, Dark Cherry",825.174,-117.88199999999998,9,0.3,1,-0.14285714285714282,True
+Furniture,Tables,Hon 2111 Invitation Series Straight Table,2040.054,-115.3074000000001,18,0.2714285714285714,7,-0.05652173913043483,True
+Furniture,Chairs,"Global Leather & Oak Executive Chair, Burgundy",1689.9679999999998,-114.67639999999992,13,0.18,5,-0.06785714285714281,True
+Furniture,Furnishings,Eldon Cleatmat Plus Chair Mats for High Pile Carpets,1304.128,-111.32800000000012,20,0.15999999999999998,5,-0.08536585365853668,True
+Office Supplies,Storage,"Carina 42""Hx23 3/4""W Media Storage Unit",1635.796,-110.13279999999989,22,0.1,8,-0.06732673267326726,True
+Office Supplies,Storage,Tennsco Industrial Shelving,1281.442,-108.58019999999996,29,0.1111111111111111,9,-0.08473282442748088,True
+Furniture,Tables,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",1088.6399999999999,-104.83200000000001,16,0.32,5,-0.09629629629629631,True
+Furniture,Bookcases,Sauder Camden County Collection Library,1368.262,-103.48200000000011,16,0.235,2,-0.07563025210084043,True
+Furniture,Bookcases,"Bush Westfield Collection Bookcases, Dark Cherry Finish",649.376,-97.40640000000003,14,0.2333333333333333,3,-0.15000000000000005,True
+Technology,Phones,Motorola HK250 Universal Bluetooth Headset,832.2379999999999,-91.50019999999995,41,0.13333333333333336,9,-0.10994475138121541,True
+Office Supplies,Binders,"Wilson Jones Elliptical Ring 3 1/2"" Capacity Binders, 800 sheets",834.6,-82.17600000000004,42,0.5125,8,-0.09846153846153852,True
+Furniture,Bookcases,Sauder Cornerstone Collection Library,322.192,-81.16760000000004,14,0.2333333333333333,3,-0.251923076923077,True
+Furniture,Chairs,"Global Task Chair, Black",463.09900000000005,-80.40619999999997,12,0.24,5,-0.17362637362637354,True
+Furniture,Bookcases,O'Sullivan Living Dimensions 2-Shelf Bookcases,2970.059,-78.637,28,0.11000000000000001,10,-0.026476578411405292,True
+Furniture,Bookcases,O'Sullivan Cherrywood Estates Traditional Barrister Bookcase,1072.344,-78.3636,9,0.15,2,-0.07307692307692308,True
+Furniture,Bookcases,"Sauder Camden County Collection Libraries, Planked Cherry Finish",1909.8178,-78.18640000000018,19,0.1457142857142857,7,-0.040939193257074145,True
+Office Supplies,Storage,Sensible Storage WireTech Storage Systems,2484.3,-78.07800000000032,38,0.07500000000000001,8,-0.031428571428571556,True
+Office Supplies,Appliances,Fellowes Command Center 5-outlet power strip,664.8320000000001,-78.01600000000002,15,0.25,4,-0.11734693877551021,True
+Office Supplies,Storage,Space Solutions Commercial Steel Shelving,1952.4300000000003,-74.34750000000021,33,0.028571428571428574,7,-0.0380794701986756,True
+Furniture,Bookcases,Rush Hierlooms Collection Rich Wood Bookcases,489.37919999999997,-70.83119999999997,4,0.16,2,-0.1447368421052631,True
+Furniture,Bookcases,"Sauder Forest Hills Library, Woodland Oak Finish",1875.0339999999999,-70.48999999999991,15,0.125,4,-0.03759398496240597,True
+Office Supplies,Storage,"Carina Mini System Audio Rack, Model AR050B",2730.108,-68.80759999999982,26,0.06666666666666667,6,-0.02520325203252026,True
+Furniture,Bookcases,"O'Sullivan Elevations Bookcase, Cherry Finish",1912.308,-68.10959999999994,18,0.2,5,-0.035616438356164355,True
+Furniture,Tables,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",5801.815999999999,-66.82719999999955,23,0.18,5,-0.011518324607329768,True
+Office Supplies,Storage,"Gould Plastics 9-Pocket Panel Bin, 18-3/8w x 5-1/4d x 20-1/2h, Black",953.82,-63.58800000000004,20,0.10000000000000002,6,-0.06666666666666671,True
+Technology,Phones,i.Sound Portable Power - 8000 mAh,413.322,-58.81890000000003,9,0.12000000000000002,5,-0.14230769230769238,True
+Technology,Accessories,V7 USB Numeric Keypad,461.86800000000005,-58.78320000000001,16,0.15000000000000002,4,-0.1272727272727273,True
+Office Supplies,Storage,"Contico 72""H Heavy-Duty Storage System",598.308,-57.372,16,0.08,5,-0.0958904109589041,True
+Office Supplies,Supplies,Compact Automatic Electric Letter Opener,2982.75,-57.268799999999956,26,0.05,8,-0.019199999999999984,True
+Furniture,Bookcases,Bush Somerset Collection Bookcase,1263.9569999999999,-56.321399999999954,12,0.2125,4,-0.044559585492227945,True
+Office Supplies,Storage,Fellowes Econo/Stor Drawers,581.58,-56.219400000000036,7,0.1,2,-0.09666666666666672,True
+Technology,Phones,OtterBox Commuter Series Case - Samsung Galaxy S4,384.846,-55.977599999999995,18,0.15000000000000002,4,-0.14545454545454545,True
+Technology,Machines,Cisco CP-7937G Unified IP Conference Station Phone,1391.4,-55.65599999999995,4,0.5,2,-0.03999999999999996,True
+Office Supplies,Storage,"Eldon Base for stackable storage shelf, platinum",872.256,-52.569000000000116,25,0.08571428571428573,7,-0.060267857142857276,True
+Technology,Phones,Clearsounds A400,488.32599999999996,-48.83259999999998,11,0.3333333333333333,3,-0.09999999999999996,True
+Furniture,Chairs,Hon Deluxe Fabric Upholstered Stacking Chairs,2586.1879999999996,-48.795999999999744,15,0.275,4,-0.01886792452830179,True
+Furniture,Furnishings,Eldon Advantage Foldable Chair Mats for Low Pile Carpets,379.40000000000003,-48.78000000000004,10,0.19999999999999998,3,-0.12857142857142867,True
+Office Supplies,Storage,Tennsco Commercial Shelving,374.25600000000003,-48.61260000000004,21,0.1111111111111111,9,-0.1298913043478262,True
+Technology,Accessories,SanDisk Ultra 16 GB MicroSDHC Class 10 Memory Card,329.946,-48.58260000000004,31,0.14285714285714285,7,-0.1472440944881891,True
+Office Supplies,Storage,"Belkin 19"" Center-Weighted Shelf, Gray",849.3119999999999,-47.184000000000026,16,0.1,4,-0.055555555555555594,True
+Furniture,Furnishings,Eldon Cleatmat Chair Mats for Medium Pile Carpets,344.1,-42.179999999999964,8,0.3,4,-0.1225806451612902,True
+Furniture,Chairs,Office Star - Ergonomically Designed Knee Chair,1311.876,-42.10959999999993,19,0.17142857142857143,7,-0.03209876543209871,True
+Furniture,Furnishings,"Tenex ""The Solids"" Textured Chair Mats",1469.1599999999999,-40.576800000000105,26,0.19999999999999998,7,-0.027619047619047692,True
+Furniture,Furnishings,36X48 HARDFLOOR CHAIRMAT,369.248,-40.49140000000003,21,0.2333333333333333,6,-0.10965909090909098,True
+Furniture,Tables,Bevis Round Conference Room Tables and Bases,519.9409999999999,-39.44380000000006,4,0.25,2,-0.07586206896551737,True
+Office Supplies,Storage,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",4384.044,-36.53369999999961,33,0.028571428571428574,7,-0.008333333333333245,True
+Furniture,Chairs,Hon Comfortask Task/Swivel Chairs,1686.9040000000002,-36.473600000000005,18,0.15,6,-0.021621621621621623,True
+Office Supplies,Storage,Rogers Deluxe File Chest,443.996,-34.728400000000015,22,0.1,8,-0.07821782178217826,True
+Furniture,Chairs,Novimex Turbo Task Chair,1341.5220000000002,-32.650800000000004,22,0.13333333333333333,6,-0.02433862433862434,True
+Technology,Accessories,"Memorex 25GB 6X Branded Blu-Ray Recordable Disc, 30/Pack",472.86,-32.269500000000015,17,0.1,4,-0.06824324324324327,True
+Technology,Phones,Samsung Convoy 3,688.1379999999999,-31.077199999999948,9,0.2,2,-0.04516129032258057,True
+Office Supplies,Storage,Fellowes Bankers Box Recycled Super Stor/Drawer,1187.56,-30.22880000000005,24,0.08571428571428573,7,-0.025454545454545497,True
+Furniture,Bookcases,"Hon Metal Bookcases, Black",1570.0776,-26.97239999999988,30,0.244,5,-0.017179023508137353,True
+Office Supplies,Storage,"Tennsco Lockers, Gray",402.81600000000003,-26.43480000000004,22,0.10000000000000002,6,-0.06562500000000009,True
+Office Supplies,Storage,"SAFCO Commercial Wire Shelving, 72h",1445.2640000000001,-24.496000000000002,24,0.04,5,-0.01694915254237288,True
+Technology,Phones,Anker Astro 15000mAh USB Portable Charger,599.88,-23.995200000000086,13,0.08,5,-0.04000000000000015,True
+Technology,Machines,Panasonic KX MC6040 Color Laser Multifunction Printer,1619.82,-22.49750000000006,5,0.35,2,-0.013888888888888926,True
+Furniture,Chairs,"Global Armless Task Chair, Royal Blue",1396.442,-20.733200000000025,28,0.175,8,-0.014847161572052419,True
+Office Supplies,Storage,Space Solutions Industrial Galvanized Steel Shelving.,520.0799999999999,-20.487999999999946,7,0.06666666666666667,3,-0.039393939393939294,True
+Furniture,Bookcases,"Bush Westfield Collection Bookcases, Medium Cherry Finish",1426.8878,-20.292999999999957,32,0.22999999999999998,9,-0.014221861032100743,True
+Office Supplies,Storage,Fellowes Neat Ideas Storage Cubes,480.70399999999995,-18.188800000000015,16,0.08571428571428573,7,-0.037837837837837875,True
+Office Supplies,Appliances,Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge,823.252,-17.03280000000001,16,0.3333333333333333,3,-0.020689655172413807,True
+Technology,Phones,Dexim XPower Skin Super-Thin Power Case for iPhone 5 - Black,467.92,-14.622499999999981,11,0.20000000000000004,3,-0.03124999999999996,True
+Technology,Phones,Motorola L804,607.068,-13.337100000000028,19,0.26666666666666666,6,-0.021969696969697017,True
+Office Supplies,Storage,Fellowes Bankers Box Stor/Drawer Steel Plus,1426.308,-12.792000000000002,50,0.10000000000000002,12,-0.008968609865470854,True
+Furniture,Bookcases,O'Sullivan 5-Shelf Heavy-Duty Bookcases,540.804,-12.291000000000011,9,0.175,4,-0.02272727272727275,True
+Furniture,Tables,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",2298.114,-12.132900000000333,39,0.17777777777777778,9,-0.005279503105590207,True
+Technology,Accessories,Case Logic 2.4GHz Wireless Keyboard,1229.7540000000001,-11.997600000000155,27,0.07500000000000001,8,-0.009756097560975735,True
+Technology,Phones,Avaya 5410 Digital phone,625.5079999999999,-10.8784,13,0.30000000000000004,4,-0.017391304347826087,True
+Furniture,Bookcases,"Safco Value Mate Series Steel Bookcases, Baked Enamel Finish on Steel, Gray",858.8580000000001,-9.93719999999999,17,0.245,6,-0.011570247933884285,True
+Office Supplies,Appliances,Hoover Commercial Lightweight Upright Vacuum with E-Z Empty Dirt Cup,1023.3520000000001,-9.30320000000006,6,0.26666666666666666,3,-0.00909090909090915,True
+Office Supplies,Binders,"GBC Velobind Prepunched Cover Sets, Regency Series",661.942,-9.245000000000001,33,0.41428571428571426,7,-0.013966480446927375,True
+Furniture,Bookcases,"Sauder Facets Collection Library, Sky Alder Finish",1427.683,-8.549000000000078,10,0.15,4,-0.0059880239520958625,True
+Office Supplies,Storage,Safco Commercial Shelving,483.70399999999995,-7.441600000000015,11,0.08,5,-0.015384615384615418,True
+Office Supplies,Appliances,Acco Smartsocket Color-Coded Six-Outlet AC Adapter Model Surge Protectors,448.902,-7.04160000000001,14,0.30000000000000004,4,-0.015686274509803942,True
+Technology,Phones,Plantronics MX500i Earset,618.4800000000001,-6.4425000000000185,15,0.05714285714285715,7,-0.010416666666666694,True
+Office Supplies,Storage,Tennsco Regal Shelving Units,1764.534,-6.0846000000000515,18,0.05,4,-0.0034482758620689945,True
+Office Supplies,Storage,Carina Double Wide Media Storage Towers in Natural & Black,3028.652,-3.2392000000001424,39,0.06666666666666667,12,-0.0010695187165775872,True
+Office Supplies,Storage,Eldon Gobal File Keepers,348.22,-0.6056000000000257,24,0.06666666666666667,6,-0.0017391304347826823,True
+Furniture,Chairs,Global Super Steno Chair,2389.902,-1.9895196601282805e-13,30,0.14285714285714285,7,-8.324691389556059e-17,True
+Office Supplies,Supplies,Premier Electric Letter Opener,2641.6079999999997,-1.9184653865522705e-13,24,0.07500000000000001,8,-7.262490825861637e-17,True
